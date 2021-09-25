@@ -7,8 +7,8 @@ namespace ProjetoExemplo
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("Good morning!");
             Console.WriteLine("How are you?");
+            Console.WriteLine("I wish you a good morning!");
         }
     }
 }
